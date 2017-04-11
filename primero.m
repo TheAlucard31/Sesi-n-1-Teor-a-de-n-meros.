@@ -1,4 +1,4 @@
-clear all
+clear
 n=input('Ingrese el valor en números enteros de n: ');
 r=mod(n,1);
 if r==0
